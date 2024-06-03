@@ -1,2 +1,2 @@
-# data-analytic-with-python
+# Data analytic with python
 Practice and project for data analytic with python
